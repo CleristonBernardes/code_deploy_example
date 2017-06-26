@@ -1,9 +1,9 @@
 version: 0.0
 os: linux
 # hidding scripts for now
-# files:
-#    - source: /
-#      destination: /var/www/html
+files:
+   - source: /
+     destination: /home/ubuntu/web/sites/altadis-codedeploy/
 # permissions:
 #    - object: /var/www/html
 #      pattern: "**"
