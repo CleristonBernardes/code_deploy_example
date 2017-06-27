@@ -15,9 +15,9 @@ files:
  hooks:
     BeforeInstall:
      - location: scripts/pre_deploy.sh
-       runas: root
+       runas: ubuntu
 #     - location: scripts/pre_deploy_1.sh
 #       runas: root
     AfterInstall:
      - location: scripts/pos_deploy.sh
-       runas: root
+       runas: ubuntu
