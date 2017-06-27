@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /pre_deploy_ok
+echo "running pre deploy"
