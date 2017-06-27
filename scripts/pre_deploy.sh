@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir pre_deploy_ok
+mkdir /pre_deploy_ok
